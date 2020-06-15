@@ -10,5 +10,5 @@ end
 
 
 def input_to_index(users_input)
-  s
+
 end
