@@ -12,5 +12,3 @@ def input_to_index(users_input)
   puts users_input.to_i
 
 end
-
-
