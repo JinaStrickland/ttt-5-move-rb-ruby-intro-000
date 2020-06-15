@@ -8,4 +8,6 @@ end
 
 # code your input_to_index and move method here!
 
-converted_input = input_to_index(users_input)
+def input_to_index(users_input)
+  puts users_input.to_i
+end
