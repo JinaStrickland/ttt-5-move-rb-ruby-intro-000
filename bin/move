@@ -16,5 +16,3 @@ input_to_index(users_input)
 move(board, input_to_index, value="X")
 
 display_board(board)
-
-puts "Hiiiiii"
