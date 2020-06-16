@@ -11,13 +11,10 @@ puts "Where would you like to go?"
 
 users_input = gets.strip
 
-input_to_index = index
-
 
 
 move(array, index, value="X")
 input_to_index(users_input)
-
 display_board(board)
 
 puts "Hiiiiii"
