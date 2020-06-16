@@ -19,3 +19,5 @@ move(array, index, value="X")
 input_to_index(users_input)
 
 display_board(board)
+
+puts "Hiiiiii"
